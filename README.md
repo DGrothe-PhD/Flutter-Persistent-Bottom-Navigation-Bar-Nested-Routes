@@ -1,5 +1,5 @@
 # Flutter Persistent Bottom Navigation Bar, Nested Navigation and Routing in Flutter, keep Bottom Nav Bar across page routes
-### [Watch on YouTube](youtu.be/ZqkVQ7TKJ2Y)
+### [Watch on YouTube](https://youtu.be/ZqkVQ7TKJ2Y)
 ![maxresdefault](https://github.com/AmirBayat0/Flutter-Persistent-Bottom-Navigation-Bar-Nested-Routes/assets/91388754/8ba0e43d-5fca-4b92-b17c-c3fe7299038d)
 
 
